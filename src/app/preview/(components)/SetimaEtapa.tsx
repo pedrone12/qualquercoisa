@@ -151,7 +151,7 @@ export default function SetimaEtapa() {
           <div className="mt-10 w-full">
             <a
               className="items-center font-semibold justify-center whitespace-nowrap ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 text-primary-foreground hover:bg-gray-950/90 h-10 px-4 font-nunito py-[40px] text-xl font-bold flex bg-red-500 rounded-2xl w-full"
-              href="https://pay.onlinepag.com/checkout/1208f884-ddac-4020-b483-0cbad4d19fe1"
+              href="https://pay.onlinepag.com/checkout/fd18a7fb-097b-493a-b2b3-e2b84ded9313"
             >
               Eu quero o relatório completo
             </a>
