@@ -19,7 +19,7 @@ interface ApiResponse {
 }
 
 export default function SextaEtapa({ onNextStep }: { onNextStep: () => void }) {
-  const { ip, ig } = useDataContext();
+const { ip, ig, data: data2 } = useDataContext();
 
   const [data, setData] = useState<ApiResponse | null>(null);
   const [loading, setLoading] = useState(true);
