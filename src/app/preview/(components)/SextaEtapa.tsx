@@ -92,7 +92,11 @@ const { ip, ig, data: data2 } = useDataContext();
   }, []);
 
   if (loading) {
-    return <h1>Carregando...</h1>; // Corrigido para retornar o JSX enquanto carrega
+    return (
+      <div className="flex items-center justify-center min-h-screen">
+        <div className="animate-spin rounded-full h-16 w-16 border-t-4 border-black"></div>
+      </div>
+    )
   }
 
   if (!data || !data.items) {
