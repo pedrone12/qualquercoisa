@@ -125,8 +125,8 @@ export default function SetimaEtapa() {
               <div className="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-[#18181B] text-primary-foreground hover:bg-[#343438] mb-3">
                 50% off
               </div>
-              <small className="text-right text-base font-nunito text-zinc-500">de R$ 94 por:</small>
-              <h2 className="text-black text-right text-4xl mt-1 font-nunito font-extrabold">R$ 47,00</h2>
+              <small className="text-right text-base font-nunito text-zinc-500">de R$ 54 por:</small>
+              <h2 className="text-black text-right text-4xl mt-1 font-nunito font-extrabold">R$ 27,00</h2>
               <small className="text-right font-nunito text-base text-zinc-500">à vista</small>
             </div>
           </div>
